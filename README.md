@@ -1,8 +1,8 @@
-**Hello, I'm Marcos**
-- 👀 I’m interested in network,data security and systems auditing
-- 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Olá, eu sou Marcos**
+-Sou estudante de Engenharia de Computação.
+-Estagiário da IBM
+-Membro do IBM Build Labs
+
 
 <!---
 Mvinicius12/Mvinicius12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
