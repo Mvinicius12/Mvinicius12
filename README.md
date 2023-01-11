@@ -1,7 +1,5 @@
 **Olá, eu sou Marcos**
 -Sou estudante de Engenharia de Computação.
--Estagiário da IBM
--Membro do IBM Build Labs
 
 
 <!---
