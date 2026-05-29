@@ -1,20 +1,25 @@
-## Olá, eu sou Marcos! 👋
+# Olá, eu sou Marcos Vinicius 👋
+🎯 Data Assistant | Data Science | AI & Cybersecurity Enthusiast
 
-### Sobre Mim
-- 🎓 Formado em Engenharia de Computação.
-- 💼 Trabalho na área de Data Assistant.
-- 📚 Educação em andamento:
-  - **FCF** - Introdução Técnica à Segurança Cibernética
-  - **Python para Data Science e Analytics** - Do Zero para Avançado
-- 🌐 Diretor Administrativo-Financeiro (voluntariado) da **Associação Desportiva Cultura dos Surdos de Cotia**.
-- 🔒 Paixão pela área de Redes e sistemas de segurança.
-- 🚀 Ansioso para aprender e inovar, buscando maneiras de melhorar a vida das pessoas.
-- ⚽ Adoro jogar futebol.
+## 🚀 Sobre mim
+🎓 Formado em Engenharia de Computação
 
-### Contato
-- [LinkedIn](https://www.linkedin.com/in/marcos-vinicius-ribeiro-constantino-9504aa179/) 
-- [E-mail](marcos.vrc197@gmail.com)
+💼 Atualmente atuando como Data Assistant na Logicalis
 
+📊 Estudando:
+- Python para Data Science
+- Machine Learning
+- AWS & GenAI
+- Segurança Cibernética
+
+🤖 Interesse em:
+- Inteligência Artificial Generativa
+- Data Science
+- Automação
+- Cloud Computing
+- Redes e Segurança
+
+🌱 Sempre buscando aprender, evoluir e criar soluções que ajudem pessoas.
 
 ---
 
